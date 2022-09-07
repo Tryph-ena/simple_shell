@@ -1,2 +1,2 @@
 # simple_shell
-simple shell
+This is a simple shell projectt
